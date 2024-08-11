@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\models\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\library-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\library-system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\controllers\\librarybookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\controllers\\librarybookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\repositories\\ilibrarybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repositories\\ilibrarybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\models\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\models\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\repositories\\librarybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\repositories\\librarybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\migrations\\20240810132957_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\migrations\\20240810132957_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|c:\\users\\dinuk\\onedrive\\desktop\\my projects\\library-system\\backend\\library-system\\library-system\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB6C88-5545-4870-93E8-68E43118416F}|Library-System\\Library-System.csproj|solutionrelative:library-system\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Library-System\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\UserService.cs",
+              "RelativeToolTip": "Library-System\\Services\\UserService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:30:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Library-System\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:28:20.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Library-System\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Library-System\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:32:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryBookController.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Controllers\\LibraryBookController.cs",
+              "RelativeDocumentMoniker": "Library-System\\Controllers\\LibraryBookController.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Controllers\\LibraryBookController.cs",
+              "RelativeToolTip": "Library-System\\Controllers\\LibraryBookController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvz8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:55:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library-System.csproj",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Library-System.csproj",
+              "RelativeDocumentMoniker": "Library-System\\Library-System.csproj",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Library-System.csproj",
+              "RelativeToolTip": "Library-System\\Library-System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T14:55:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryBook.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\LibraryBook.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\LibraryBook.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\LibraryBook.cs",
+              "RelativeToolTip": "Library-System\\Models\\LibraryBook.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:37:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Library-System\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:23:13.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\User.cs",
+              "RelativeToolTip": "Library-System\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:09:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Library-System\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\IUserService.cs",
+              "RelativeToolTip": "Library-System\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:30:06.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Library-System\\Services\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "Library-System\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:49:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILibraryBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\ILibraryBookRepository.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repositories\\ILibraryBookRepository.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\ILibraryBookRepository.cs",
+              "RelativeToolTip": "Library-System\\Repositories\\ILibraryBookRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:42:41.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\LibraryBookRepository.cs",
+              "RelativeDocumentMoniker": "Library-System\\Repositories\\LibraryBookRepository.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Repositories\\LibraryBookRepository.cs",
+              "RelativeToolTip": "Library-System\\Repositories\\LibraryBookRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:48:03.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library-System\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Library-System\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:50:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Program.cs",
+              "RelativeDocumentMoniker": "Library-System\\Program.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Program.cs",
+              "RelativeToolTip": "Library-System\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:42:46.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookType.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\BookType.cs",
+              "RelativeDocumentMoniker": "Library-System\\Models\\BookType.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Models\\BookType.cs",
+              "RelativeToolTip": "Library-System\\Models\\BookType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:50:22.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240810132957_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Migrations\\20240810132957_Initial.cs",
+              "RelativeDocumentMoniker": "Library-System\\Migrations\\20240810132957_Initial.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Migrations\\20240810132957_Initial.cs",
+              "RelativeToolTip": "Library-System\\Migrations\\20240810132957_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:30:15.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\appsettings.json",
+              "RelativeDocumentMoniker": "Library-System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\appsettings.json",
+              "RelativeToolTip": "Library-System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T04:36:39.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Library-System\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Dinuk\\OneDrive\\Desktop\\My Projects\\Library-System\\Backend\\Library-System\\Library-System\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "Library-System\\Data\\LibraryContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:13:58.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
